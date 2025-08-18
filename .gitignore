@@ -2,3 +2,4 @@ venv/
 Agenda.txt
 src/__pycache__/
 logs/
+mlproject.egg-info/
