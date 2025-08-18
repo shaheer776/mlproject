@@ -1,2 +1,4 @@
 venv/
 Agenda.txt
+src/__pycache__/
+logs/
