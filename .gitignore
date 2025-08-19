@@ -4,3 +4,4 @@ src/__pycache__/
 logs/
 mlproject.egg-info/
 artifacts/
+catboost_info/
